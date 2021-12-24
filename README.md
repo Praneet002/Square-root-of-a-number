@@ -33,7 +33,7 @@ fun()
 ~~~
 
 ## Output:
-![gcd of two number]()
+![gcd of two number](https://github.com/Praneet002/Square-root-of-a-number/blob/main/Screenshot%20(3).png?raw=true)
 
 
 ## Result:
